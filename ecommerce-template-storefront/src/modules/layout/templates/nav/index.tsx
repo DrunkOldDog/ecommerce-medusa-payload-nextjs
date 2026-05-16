@@ -23,7 +23,7 @@ export default async function Nav() {
           <div className="flex items-center h-full">
             <LocalizedClientLink href="/" data-testid="nav-store-link">
               <Image
-                src="/assets/images/ay_not_dead_logo.svg"
+                src="/assets/images/stinginc.png"
                 alt="Logo"
                 width={120}
                 height={120}
